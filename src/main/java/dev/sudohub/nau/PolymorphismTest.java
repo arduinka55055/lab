@@ -17,7 +17,7 @@ public class PolymorphismTest {
     public static void main(String[] args) {
         animals.add(new Dog());
         animals.add(new Cat("Tom"));//upcasting a cat to just an animal
-        
+        animals.add(new Animal());
         printZoo();
         
         //downcasting

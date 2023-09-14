@@ -4,7 +4,7 @@ package dev.sudohub.nau;
  * 
  *
  */
-public class App 
+public class App  
 {
     public static void main( String[] args )
     {
