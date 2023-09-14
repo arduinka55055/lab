@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestModificators",
+            "request": "launch",
+            "mainClass": "dev.sudohub.nau.TestModificators",
+            "projectName": "lab"
+        },
+        {
+            "type": "java",
+            "name": "NewClass",
+            "request": "launch",
+            "mainClass": "dev.sudohub.nau.NewClass",
+            "projectName": "lab"
+        },
+        {
+            "type": "java",
+            "name": "TestElements",
+            "request": "launch",
+            "mainClass": "dev.sudohub.nau.TestElements",
+            "projectName": "lab"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismTest",
+            "request": "launch",
+            "mainClass": "dev.sudohub.nau.PolymorphismTest",
+            "projectName": "lab"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "dev.sudohub.nau.App",
+            "projectName": "lab"
+        }
+    ]
+}
